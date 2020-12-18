@@ -1,3 +1,5 @@
+theme: jekyll-theme-hacker
+
 #! /usr/bin/python
 
 import binascii
